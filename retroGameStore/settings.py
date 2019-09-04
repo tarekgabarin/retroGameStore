@@ -40,7 +40,9 @@ INSTALLED_APPS = [
 
     #own
     'games',
-    'consoles'
+    'consoles',
+    'merchandise',
+    'customer'
 ]
 
 MIDDLEWARE = [
